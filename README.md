@@ -2,11 +2,11 @@
 
 WIN10 Rainmeter skin (Full HD monitor) with modules for Harddrives usage (/Disk), Music player (/Music), Network usage (/Network), Processor + Memory Usage (/System) and Twitch channels you're following (/Twitch)
 
-*How does it look like?* -> ```Example.jpg```
+![alt text](https://github.com/Joothly/joodos/blob/master/Example.jpg "How does it look like?")
 
 ## Disk
 
-* Set harddrives ```DataSource``` & ```DataName``` in the ```[Variables]``` section
+* Set harddrives `DataSource` & `DataName` in the `[Variables]` section
 * Refresh skin
 
 ## Music
@@ -14,12 +14,12 @@ WIN10 Rainmeter skin (Full HD monitor) with modules for Harddrives usage (/Disk)
 info: https://docs.rainmeter.net/manual/plugins/nowplaying/
 
 * Install your corresponding player plugin (foobar2000 > http://poiru.github.io/foo-cad/)
-* Change ```PlayerName``` to your plugin name
+* Change `PlayerName` to your plugin name
 * Refresh skin
 
 ## Network
 
-* Set ```NetOutMax``` & ```NetInMax``` in bit in the ```[Variables]``` section
+* Set `NetOutMax` & `NetInMax` in bit in the `[Variables]` section
 * Refresh skin
 
 ## System
@@ -28,7 +28,7 @@ info: https://docs.rainmeter.net/manual/plugins/nowplaying/
 
 ## Twitch
 
-* Copy ```@Resources\Includes\TwitchVariables.inc.example``` to ```@Resources\Includes\TwitchVariables.inc```
-* Fill in ```TwitchOAuthToken``` & ```TwitchClientId```
+* Copy `@Resources\Includes\TwitchVariables.inc.example` to `@Resources\Includes\TwitchVariables.inc`
+* Fill in `TwitchOAuthToken` & `TwitchClientId`
 * Refresh skin
 
