@@ -6,7 +6,7 @@ WIN10 Rainmeter skin (Full HD monitor) with modules for Harddrives usage (/Disk)
 
 ## Disk
 
-* Set harddrives in the ```[Variables]``` section
+* Set harddrives ```DataSource``` & ```DataName``` in the ```[Variables]``` section
 * Refresh skin
 
 ## Music
