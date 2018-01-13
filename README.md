@@ -2,7 +2,7 @@
 
 WIN10 Rainmeter skin (Full HD monitor) with modules for Harddrives usage (/Disk), Music player (/Music), Network usage (/Network), Processor + Memory Usage (/System) and Twitch channels you're following (/Twitch)
 
-![alt text](https://github.com/Joothly/joodos/blob/master/Example.jpg "How does it look like?")
+![alt text](https://github.com/joothly/joodos/blob/master/Example.jpg "How does it look like?")
 
 ## Disk
 
