@@ -1,0 +1,11 @@
+[Variables]
+TwitchOAuthToken=x
+TwitchClientId=x
+
+; How to get the clientId: https://blog.twitch.tv/client-id-required-for-kraken-api-calls-afbb8e95f843
+; How to get the token: https://dev.twitch.tv/docs/v5/guides/authentication/#getting-oauth-access-tokens
+; ClientId = x
+; ClientSecret = x
+; AuthUrl = https://api.twitch.tv/kraken/oauth2/authorize?response_type=token&client_id=x&redirect_uri=http://localhost&scope=user_read
+; AuthAnswerUrl = http://localhost/#access_token=x&scope=user_read
+; AuthToken = x

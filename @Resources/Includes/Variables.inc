@@ -1,0 +1,20 @@
+[Variables]
+ColorPrimary=26,26,26,255
+ColorPrimaryLight=26,26,26,153
+ColorPrimaryTransparent=26,26,26,90
+ColorSecondary=255,255,255,255
+ColorSecondaryLight=255,255,255,153
+ColorSecondaryTransparent=255,255,255,90
+ColorTertiary=0,120,215,255
+FontPrimary=Segoe UI
+BarHeight=19
+BarPaddingHor=5
+BarPaddingVer=2
+BarTextHeight=14
+NumberDecimals=0
+SkinWidth=200
+SkinPaddingHor=0
+SkinPaddingVer=10
+TextHeight=20
+TextMarginHor=10
+ItemMarginVer=10
