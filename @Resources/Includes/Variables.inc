@@ -18,3 +18,4 @@ SkinPaddingVer=10
 TextHeight=20
 TextMarginHor=10
 ItemMarginVer=10
+TitleHeight=25
